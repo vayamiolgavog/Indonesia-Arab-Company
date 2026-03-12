@@ -1,0 +1,72 @@
+
+game.png
+size: 1200, 1200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+NationIcons/Indonesia Arab Colmek
+  rotate: false
+  xy: 0, 0
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 700, 700
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+BuildingIcons/TV Licenced
+  rotate: false
+  xy: 0, 0
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 700, 700
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+BuildingIcons/[Broadcast Tower]
+  rotate: false
+  xy: 0, 0
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+
+
+game4.png
+size: 700, 700
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+BuildingIcons/Uranium Center
+  rotate: false
+  xy: 0, 0
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+
+
+game5.png
+size: 700, 700
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+UnitIcons/C-4 Tank
+  rotate: false
+  xy: 0, 0
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
