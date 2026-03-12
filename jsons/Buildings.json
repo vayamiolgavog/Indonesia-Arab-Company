@@ -1,0 +1,31 @@
+[
+  {
+		"name": "TV Licenced",
+      "uniqueTo": "Indonesia Arab Colmek",
+		"culture": 2,
+		"percentStatBonus": {"culture": 28},
+		"requiredBuilding": "Museum",
+		"maintenance": 3,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+   {
+		"name": "[Broadcast Tower]",
+      "replaces": "Broadcast Tower",
+      "uniqueTo": "Indonesia Arab Colmek",
+		"culture": 6,
+		"percentStatBonus": {"culture": 66},
+		"requiredBuilding": "Museum",
+		"maintenance": 2,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+  {
+		"name": "Uranium Center",
+		"maintenance": 3,
+      "uniqueTo": "Indonesia Arab Colmek",
+      "requiredResource": "Oil"
+		"requiredTech": "Nuclear Fission",
+		"uniques": ["Provides [3] [Uranium]","Limited to [10] per Civilization"]
+	}
+]

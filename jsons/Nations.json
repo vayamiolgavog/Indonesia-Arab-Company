@@ -1,0 +1,34 @@
+[
+  {
+		"name": "Indonesia Arab Colmek",
+		"leaderName": "Nizam Ali Fikri",
+		"adjective": ["Indonesian", "IAC"],
+		"preferredVictoryType": "Scientific",
+		// "personality": "Wu Zetian", // Don't Use personality.
+
+        "startIntroPart1": "Heaven itself bends before your beauty, Empress Wu Zetian, ruler of eternal China! You lead one of the oldest and greatest civilization of humanity. In your time, China stood at the forefront of science and technology, bringing the world such contributions as gunpowder, the printing press, and the world of Confucius, and this, long before the rest of the world was mature enough to make the same discoveries!",
+        "startIntroPart2": "Great Queen, can you make China prevail again, using your divine intelligence and beauty? China stands for greatness, and all its enemies will be dazzled soon enough! Will your new empire shine through the ages of history?",
+
+        "declaringWar": "You won't ever be able to bother me again. Go meet Yama.",
+		"attacked": "Fool! I will disembowel you all!",
+		"defeated": "You have proven to be a cunning and competent adversary. I congratulate you on your victory.",
+		"introduction": "Greetings, I am Empress Wu Zetian. China desires peace and development. You leave us alone, we'll leave you alone.",
+		"neutralHello": "How are you today?",
+		"hateHello": "Oh. It's you?",
+		"tradeRequest": "My friend, do you think you can accept this request?",
+
+        "outerColor": [0, 0, 255],
+        "innerColor": [255,255,255],
+
+		"favoredReligion": "Islam",
+		"uniqueName": "Art of War",
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
+		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
+			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
+			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",
+			"Biak","Djawa","Kudus","Lombok","Samosir","Sragen","Garut","Gresik","Nias","Madiun",
+			"Yogyakarta","Bima","Sorong"],
+        "spyNames": ["Adityawarman", "Airlangga", "Citra", "Asep", "Joko", "Lingga", "Dewi", "Prapana", "Raden", "Masbro"]
+
+    }
+]
