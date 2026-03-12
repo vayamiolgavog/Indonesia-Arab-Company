@@ -4,7 +4,6 @@ size: 1200, 1200
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-
 NationIcons/Indonesia Arab Colmek
   rotate: false
   xy: 0, 0
@@ -18,7 +17,6 @@ size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-
 BuildingIcons/TV Licenced
   rotate: false
   xy: 0, 0
@@ -32,7 +30,6 @@ size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-
 BuildingIcons/[Broadcast Tower]
   rotate: false
   xy: 0, 0
@@ -47,7 +44,6 @@ size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-
 BuildingIcons/Uranium Center
   rotate: false
   xy: 0, 0
@@ -62,7 +58,6 @@ size: 700, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-
 UnitIcons/C-4 Tank
   rotate: false
   xy: 0, 0
